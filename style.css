@@ -1,3 +1,7 @@
+body {
+    background-color: lime;
+}
+
 h1 {
     font-family: 'Special Elite', fantasy;
     color: rgb(38, 0, 255);
